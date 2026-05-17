@@ -9,7 +9,7 @@ import os
 # 🔑 HIER EINSETZEN
 # =========================
 import os
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("DISCORD_TOKEN")
 OWNER_ID = 836287891403047013
 
 # =========================
